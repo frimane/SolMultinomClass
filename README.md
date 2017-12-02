@@ -19,4 +19,4 @@ devtools::install_github("frimane/SolMultinomClass")
 
 ### License
 
-This package is free and open source software, licensed under GPLv3.
+This package is free and open source software, licensed under GPLv2.
