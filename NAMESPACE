@@ -1,3 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 import(stats)
-importFrom("graphics", "hist")
+importFrom( graphics , hist )
+importFrom ( tmvtnorm , rtmvnorm )
+importFrom ( markovchain , markovchainFit )
+importFrom ( markovchain , rmarkovchain )
