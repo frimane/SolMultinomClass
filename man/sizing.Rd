@@ -12,6 +12,8 @@
   and the mean load energy demand. 
   cs is defined as the maximum energy that can be taken out from the accumulator divided by the mean load energy demand.
   For more information see the reference below.
+  
+  Lorenzo, E., 2003. Energy collected and delivered by PV modules. Wiley. URL: http://onlinelibrary.wiley.com/book/10.1002/9780470974704, doi:https://doi.org/10.1002/9780470974704.
 }
 \usage{
   sizing(meas, margC = rev(seq(0.5, 9, 0.01)), margA = seq(0.1, 2.5, 0.01), LLP = 0.05)
@@ -36,10 +38,6 @@
   The function plot the curve of the iso-reliability desired and provide also 
   an object of class matrix of two rows represents each point in the ca −cs plane (each ponit 
   represents a size of the PV system). 
-}
-
-\reference{
-  Lorenzo, E., 2003. Energy collected and delivered by PV modules. Wiley. URL: http://onlinelibrary.wiley.com/book/10.1002/9780470974704, doi:https://doi.org/10.1002/9780470974704.
 }
 
 \author{
