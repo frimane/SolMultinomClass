@@ -19,7 +19,7 @@
     number of days desired.
   }
   \item{seqStats}{
-    numerical vector containing the resultion sequence of classes from the classification method multinomDirClass.
+    numerical vector containing the result sequence of clearness index classes from the classification method multinomDirClass.
   }
   \item{moy}{
     matrix containg the mean of each class. Each row represents a typical day
