@@ -38,7 +38,7 @@
   represents a size of the PV system). 
 }
 
-\References{
+\reference{
   Lorenzo, E., 2003. Energy collected and delivered by PV modules. Wiley. URL: http://onlinelibrary.wiley.com/book/10.1002/9780470974704, doi:https://doi.org/10.1002/9780470974704.
 }
 
