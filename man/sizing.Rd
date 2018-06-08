@@ -39,8 +39,18 @@
 }
 
 \References{
-  Lorenzo, E., 2003. Energy collected and delivered by PV modules. Wiley. 
-  URL: http://onlinelibrary.wiley.com/book/10.1002/9780470974704, doi:https://doi.org/10.1002/9780470974704
+  @BOOK{handbook,
+  author      = "Eduardo Lorenzo",
+  title       = "Energy collected and delivered by {PV} modules",
+  editor      = "Antonio Luque and Steven Hegedus",
+  booktitle   = "Handbook of Photovoltaic Science and Engineering",
+  publisher   = "Wiley",
+  year        = 2003,
+  pages       = "922-984",
+  chapter     = 20,
+  doi = "https://doi.org/10.1002/9780470974704",
+  url = "http://onlinelibrary.wiley.com/book/10.1002/9780470974704"
+}
 }
 
 \author{
