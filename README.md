@@ -23,12 +23,13 @@ devtools::install_github("frimane/SolMultinomClass")
 This package is free and open source software, licensed under GPLv2.
 
 ### Citation
-If you use SolMultinomClass, please cite it in any publication reporting results obtained with this software:
 
-Frimane, Â., Aggour, M., Ouhammou, B., Bahmad, L, A Dirichlet-multinomial mixture model-based approach for daily solar radiation classification, Solar Energy, Volume 171, 1 September 2018, Pages 31-39, ISSN 0038-092X, https://doi.org/10.1016/j.solener.2018.06.059.
+If you use SolMultinomClass, please cite the original paper published in Solar Energy that describes this model and reports the results obtained with this software:
+
+Âzeddine Frimane, Mohammed Aggour, Badr Ouhammou, Lahoucine Bahmad, A Dirichlet-multinomial mixture model-based approach for daily solar radiation classification, Solar Energy, Volume 171, 1 September 2018, Pages 31-39, ISSN 0038-092X, https://doi.org/10.1016/j.solener.2018.06.059.
 (https://www.sciencedirect.com/science/article/pii/S0038092X1830611X)
-  
-A BibTeX entry for LaTeX users is:
+
+For LaTeX users:
 
 @article{,
 title = "A Dirichlet-multinomial mixture model-based approach for daily solar radiation classification ",
