@@ -1,4 +1,4 @@
-dayLength <-
+daylight_Duration <-
 function(nj = 1, phi = 0) {
   
   delta <- 23.45*sin(0.01745329*(nj+284))
