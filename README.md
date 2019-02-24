@@ -6,9 +6,9 @@
 
 `SolMultinomClass` package includes a set of functions allowing: 
 - a clustering method namely Dirichlet multinomial mixture model. 
-- a function to calculate of extraterrestrial solar radiation at a given site. 
+- a function to calculate the extraterrestrial solar radiation at a given location. 
 - a function to calculate the day duration. 
-- a function to encode the data as vectors of occupation numbers (as multinomial distribution samples)--- for more details, see the attached paper below. 
+- a function to encode the data as vectors of occupation numbers (as multinomial distribution samples)___for more details, see the attached paper below. 
 - a method for sizing stand-alone PV systems based on the loss of load probability concept.
 
 ## Software
