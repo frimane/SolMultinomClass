@@ -2,7 +2,7 @@
 
 ## `SolMultinomClass`
 
-`SolMultinomClass` package is a new non-parametric Bayesian method for daily solar irradiance clustering. In many situations, there will be insufficient prior information and data to select the appropriate model complexity and size that best describe the data, which often lead to misleading results when one or more model assumptions are violated. `SolMultinomClass` allows a more flexible and Bayesian specification of distributions, so that the essential characteristics of the model are **learned only from the data** rather than specified in advance. The method is detailed in the attached paper below published in the Journal of [Solar Energy](https://www.sciencedirect.com/science/article/pii/S0038092X1830611X). 
+`SolMultinomClass` package offers an R-implimentation of a new non-parametric Bayesian method for daily solar irradiance clustering. In many situations, there will be insufficient prior information and data to select the appropriate model complexity and size that best describe the data, which often lead to misleading results when one or more model assumptions are violated. Hence `SolMultinomClass` allows a more flexible and Bayesian specification of distributions, so that the essential characteristics of the model are **learned only from the data** rather than specified in advance. The method is detailed in the attached paper below published in the Journal of [Solar Energy](https://www.sciencedirect.com/science/article/pii/S0038092X1830611X). 
 
 `SolMultinomClass` package includes a set of functions allowing: 
 - a clustering method namely Dirichlet multinomial mixture model. 
